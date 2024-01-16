@@ -23,3 +23,7 @@ Memory Cards Game with Minions Characters.
 ---
 
 <img width="36" alt="Screenshot 2024-01-10 at 23 21 45" src="https://github.com/tamer98/Memory_Cards_Game/assets/72464761/68afa0ca-73c8-4e5a-ac41-9725c9d492cf">
+
+#### Play the game
+
+https://tamer98.github.io/Memory_Cards_Game/
