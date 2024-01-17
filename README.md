@@ -10,19 +10,20 @@ Memory Cards Game with Minions Characters.
 
 ### `How It Works` 
 ---
-<img width="1536" alt="Screenshot 2024-01-08 at 16 59 32" src="https://github.com/tamer98/Memory_Cards_Game/assets/72464761/9775c462-c476-4e68-af79-c038145cd37e">
+<img width="1920" alt="Screenshot 2024-01-17 at 17 09 53" src="https://github.com/tamer98/Memory_Cards_Game/assets/72464761/e81fd760-9a71-4297-9101-5d6e66841231">
+
 
 #### pickup cards 
----
 
-<img width="1536" alt="Screenshot 2024-01-08 at 17 08 26" src="https://github.com/tamer98/Memory_Cards_Game/assets/72464761/c0d0b96a-2ee5-4604-a91c-8872fc023eb8">
+<img width="1920" alt="Screenshot 2024-01-17 at 17 11 38" src="https://github.com/tamer98/Memory_Cards_Game/assets/72464761/c8aea2ed-7ccc-4c52-914c-e64e77a7e6d2">
 
-<img width="1536" alt="Screenshot 2024-01-08 at 17 11 22" src="https://github.com/tamer98/Memory_Cards_Game/assets/72464761/1c144720-0eb4-4e88-b334-b6be9b56a1e9">
+
+<img width="1920" alt="Screenshot 2024-01-17 at 17 13 14" src="https://github.com/tamer98/Memory_Cards_Game/assets/72464761/f0ca11b1-8295-4931-a0cd-a27f1348fddb">
 
 #### press the reload/fresh window symbol to start over
----
 
-<img width="36" alt="Screenshot 2024-01-10 at 23 21 45" src="https://github.com/tamer98/Memory_Cards_Game/assets/72464761/68afa0ca-73c8-4e5a-ac41-9725c9d492cf">
+<img width="34" alt="Screenshot 2024-01-17 at 17 13 50" src="https://github.com/tamer98/Memory_Cards_Game/assets/72464761/638068de-0595-4775-a37f-4d764bf98643">
+
 
 #### Play the game
 
