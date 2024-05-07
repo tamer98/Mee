@@ -1,4 +1,14 @@
 
+var playersName = prompt("Please enter two names, separated by a comma:");
+var names = playersName.split(',');
+
+// Trim names to remove any accidental spaces
+var firstName = names[0].trim();
+var secondName = names[1].trim();
+
+document.getElementById("player1").textContent = firstName + " ";
+document.getElementById("player2").textContent = secondName + " ";
+
 
 var numCards = document.querySelectorAll(".card").length;
 var cards = document.querySelectorAll(".card");
