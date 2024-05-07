@@ -61,3 +61,40 @@ content: url("");
 .card.flipped {
     transform: rotateY(180deg);
 }
+
+
+#gameInfo {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-weight:bold ;
+  color: #121315d0;
+}
+
+
+#playerBanner, #scoreBanner {
+  margin: 0 15px;
+}
+
+
+.button-container {
+   width: 150px;
+   margin-left: 385px;
+   top: 85%;
+   left: 47%;
+}
+
+
+#restartButton {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color:#e9ae1b;
+  color: rgb(255, 255, 255);
+}
+
